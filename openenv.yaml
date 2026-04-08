@@ -1,0 +1,7 @@
+
+name: customer-support-chatbot
+description: AI environment for handling customer queries
+tasks:
+  - intent-classification
+  - category-detection
+  - response-generation
